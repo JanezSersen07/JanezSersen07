@@ -17,7 +17,10 @@ Además de estudiar, tengo mi propio emprendimiento: [Mateverso](mateverso.mitie
 
 ## 🚀 Mis proyectos
 
-Próximamente: estoy trabajando en mis primeros repositorios.
+   ## 🚀 Mis proyectos
+
+[Links de Mateverso](https://janezsersen07.github.io/links-mateverso/): página de links para mi emprendimiento, hecha con HTML y CSS. 
+[Ver código](https://github.com/JanezSersen07/links-mateverso)
 
 ## 📫 Contacto
 
