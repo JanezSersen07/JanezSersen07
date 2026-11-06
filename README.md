@@ -17,8 +17,8 @@ Además de estudiar, tengo mi propio emprendimiento: [Mateverso](mateverso.mitie
 
 ## 🚀 Mis proyectos
 
-[Links de Mateverso](https://janezsersen07.github.io/links-mateverso/): página de links para mi emprendimiento, hecha con HTML y CSS. 
-[Ver código](https://github.com/JanezSersen07/links-mateverso)
+- **[Catálogo Mateverso](https://janezsersen07.github.io/catalogo-mateverso/)**: catálogo online con más de 160 productos reales de mi emprendimiento, con buscador y filtro por categoría. Hecho con HTML, CSS y JavaScript (`fetch`, `map`, `filter`, `reduce`). [Ver código](https://github.com/JanezSersen07/catalogo-mateverso)
+- **[Links de Mateverso](https://janezsersen07.github.io/links-mateverso/)**: página de links para mi emprendimiento, con acceso a la tienda, WhatsApp y redes. Hecha con HTML y CSS. [Ver código](https://github.com/JanezSersen07/links-mateverso)
 
 ## 📫 Contacto
 
