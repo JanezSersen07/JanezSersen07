@@ -45,7 +45,6 @@ Programación orientada a objetos y estructuras de datos, bases de datos con Ora
 
 ## 📬 Contacto
 
-- 🛒 Tienda: [mateverso.mitiendanube.com](https://mateverso.mitiendanube.com)
-- 📸 Instagram: [@mateversoo_](https://www.instagram.com/mateversoo_/)
-- 🎵 TikTok: [@mateversoo_](https://www.tiktok.com/@mateversoo_)
-- 💬 WhatsApp: [+54 9 294 467-1384](https://wa.me/5492944671384)
+- 💼 LinkedIn: [Janez Nehuen Sersen Curccio](https://www.linkedin.com/in/janez-nehuen-sersen-curccio/)
+- ✉️ Email: janezsersen07@gmail.com
+- 📱 Teléfono: +54 9 294 467-1384
