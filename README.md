@@ -26,6 +26,12 @@ Página de links del emprendimiento, pensada para el celular: tienda, WhatsApp y
 **Tecnologías:** HTML, CSS
 **Sitio:** [ver online](https://janezsersen07.github.io/links-mateverso/) · **Código:** [ver repositorio](https://github.com/JanezSersen07/links-mateverso)
 
+### ⚽ Argentina en la historia: análisis de datos
+Análisis en Python de más de 49.900 partidos de selecciones de fútbol (1872–2026): cómo le fue a Argentina por década y quiénes son sus máximos goleadores. Incluye limpieza de datos, visualizaciones y una sección de limitaciones del dataset.
+
+**Tecnologías:** Python, pandas, matplotlib, Google Colab
+**Notebook:** [ver en Colab](https://colab.research.google.com/github/JanezSersen07/NOMBRE-DEL-REPO/blob/main/analisis-argentina.ipynb) · **Código:** [ver repositorio](https://github.com/JanezSersen07/NOMBRE-DEL-REPO)
+
 ---
 
 ## 🛠️ Tecnologías
