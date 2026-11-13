@@ -32,6 +32,12 @@ Análisis en Python de más de 49.900 partidos de selecciones de fútbol (1872�
 **Tecnologías:** Python, pandas, matplotlib, Google Colab
 **Notebook:** [ver en Colab](https://colab.research.google.com/github/JanezSersen07/analisis-seleccion-argentina/blob/main/analisis-argentina.ipynb) · **Código:** [ver repositorio](https://github.com/JanezSersen07/analisis-seleccion-argentina)
 
+### 🗄️ Base de datos Mateverso (Oracle SQL y PL/SQL)
+Base de datos relacional para un emprendimiento de ventas: modelo con claves y restricciones, vista de ganancias, 11 consultas (JOIN, GROUP BY, subconsultas, funciones de ventana) y PL/SQL con procedimientos, función y un trigger que valida y descuenta el stock en cada venta.
+
+**Tecnologías:** Oracle Database, SQL, PL/SQL
+**Código:** [ver repositorio](https://github.com/JanezSersen07/base-de-datos-mateverso)
+
 ---
 
 ## 🛠️ Tecnologías
